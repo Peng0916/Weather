@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Weather.iml" filepath="$PROJECT_DIR$/Weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookjsonservlet/bookjsonservlet.iml" filepath="$PROJECT_DIR$/bookjsonservlet/bookjsonservlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataparsing/dataparsing.iml" filepath="$PROJECT_DIR$/dataparsing/dataparsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/github/github.iml" filepath="$PROJECT_DIR$/github/github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginweb/loginweb.iml" filepath="$PROJECT_DIR$/loginweb/loginweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polling/polling.iml" filepath="$PROJECT_DIR$/polling/polling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/themestyle/themestyle.iml" filepath="$PROJECT_DIR$/themestyle/themestyle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmall/tmall.iml" filepath="$PROJECT_DIR$/tmall/tmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+    </modules>
+  </component>
+</project>
